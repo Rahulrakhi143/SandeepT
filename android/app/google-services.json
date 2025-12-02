@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "33983741180",
+    "firebase_url": "https://sandeep-23e47-default-rtdb.firebaseio.com",
+    "project_id": "sandeep-23e47",
+    "storage_bucket": "sandeep-23e47.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33983741180:android:1139ed6323175f22e1ab79",
+        "android_client_info": {
+          "package_name": "com.example.trivora_provider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz_dyCOa9HftwFJpPmUoeezrzK_qeefaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+{
+  "@@locale": "hi",
+  "appName": "Trivora Provider",
+  "@appName": {
+    "description": "The application name"
+  }
+}
+
+
