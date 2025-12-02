@@ -58,6 +58,10 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^4.0.0
 
+dependency_overrides:
+  # Override intl version for Netlify builds (Flutter SDK on Netlify requires 0.20.2)
+  intl: ^0.20.2
+
 flutter:
   uses-material-design: true
   generate: true
